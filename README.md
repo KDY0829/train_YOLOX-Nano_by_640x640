@@ -2,11 +2,14 @@
 
 > GrabIT Android 앱의 온디바이스 상품 인식을 위한 YOLOX-Nano 기반 학습 및 TFLite 변환 실험
 
-<p align="center">
-  <a href="https://www.notion.so/8ac441f66d78821492c2019c4fc233cf?pvs=1">
-    <img src="https://img.shields.io/badge/Notion%20Project%20Page-View%20Details-7C3AED?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Project Page" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="680">
+      <a href="https://www.notion.so/8ac441f66d78821492c2019c4fc233cf?pvs=1"><b>📘 Notion Project Page</b></a><br />
+      <sub>프로젝트 상세 문서 · 구현 과정 · 역할 정리 보기</sub>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Highlights
 
